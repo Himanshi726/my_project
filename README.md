@@ -6,7 +6,6 @@ A production-ready, full-stack multi-tenant SaaS boilerplate built with Next.js 
 
 ![App Screenshot](public/screenshot.png)
 
-**Created by**: [Sudharsan GS](https://sudharsangs.in) 
 
 ## Features
 
